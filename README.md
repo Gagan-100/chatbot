@@ -35,6 +35,9 @@ A modern and interactive chatbot built using React + Vite that allows users to s
 
  📸 Screenshots
 
+ <img width="1892" height="961" alt="Screenshot 2026-04-06 163112" src="https://github.com/user-attachments/assets/85aee584-346f-453b-a393-c26432537e9b" />
+
+
  💡 Future Improvements  
 
 - 🤖 Integrate advanced AI models (OpenAI / Gemini API)  
