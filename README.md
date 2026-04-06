@@ -4,7 +4,7 @@ A modern and interactive chatbot built using React + Vite that allows users to s
 
 🚀 Live Demo
 
-👉 (Add your Netlify link here after deployment)
+👉 https://chatbot-project-gagan.netlify.app/
 
 ✨ Features  
 - 🤖 Real-time chatbot interaction with dynamic responses  
@@ -20,7 +20,7 @@ A modern and interactive chatbot built using React + Vite that allows users to s
 - 🟨 JavaScript (ES6+)
 - 🎨 CSS
 
-## 📂 Project Structure  
+ 📂 Project Structure  
 
 - src/ → Main source code  
 - src/components/ → All React components  
